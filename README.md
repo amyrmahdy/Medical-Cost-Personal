@@ -52,3 +52,9 @@ After hyperparameter tuning, the final random forest regression model was select
 
 To make predictions on new data, you can use the final trained model and apply the same preprocessing steps as outlined in the notebook.
 
+
+Author: **amyrmahdy**
+
+Date: **1 Jul 2023**
+
+
