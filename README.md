@@ -56,6 +56,8 @@ To make predictions on new data, you can use the final trained model and apply t
 <br>
 <br>
 
+
+---
 Author: **amyrmahdy**
 
 Date: **23 Jun 2023**
